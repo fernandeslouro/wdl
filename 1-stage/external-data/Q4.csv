@@ -1,0 +1,20 @@
+Coeficientes dos scores;;;
+;;;
+Variáveis;;IpC;FDR
+Imposto sobre o Rendimento das Pessoas Singulares (IRS) liquidado, segundo o município de residência do contribuinte, per capita;IRS;0,156;-0,090
+Rendimento bruto declarado para efeitos de IRS, segundo o município de residência do contribuinte, per capita;RDECLIRS;0,162;-0,104
+Valor das compras nacionais através de terminais de pagamento automático, segundo a localização do terminal de pagamento automático, per capita;COMTPNAC;0,142;-0,057
+Valor das operações de pagamentos em caixas automáticos, segundo a localização do caixa automático, per capita;VOPRPAG;0,114;0,005
+Valor dos levantamentos nacionais em caixas automáticos, segundo a localização do caixa automático, per capita;LEVMULN;0,127;-0,040
+Crédito concedido a clientes para habitação, per capita;CREHABT;0,137;-0,080
+Ganho mensal dos trabalhadores por conta de outrem a tempo completo com remuneração completa, por município do estabelecimento, per capita;GANHTCO;0,135;-0,076
+População residente em lugares com 5 000 ou mais habitantes em proporção da população total;TXURB5;0,136;-0,103
+Número de veículos ligeiros de passageiros vendidos, segundo o local de residência dos proprietários,  per capita;AUTOMOV;0,090;-0,031
+Volume de negócios das empresas da divisão 47 da CAE-Rev.3 (Comércio a retalho, exceto de veículos automóveis e motociclos), com exceção do grupo 473 (Comércio a retalho de combustível para veículos a motor, em estabelecimentos especializados), com atividade, segundo o município do estabelecimento, per capita;VVNECOM;0,079;0,004
+Valor dos levantamentos internacionais em caixas automáticos, segundo a localização do caixa automático, per capita;LEVMULINT;-0,080;0,267
+Valor das compras internacionais através de terminais de pagamento automático, segundo a localização do terminal de pagamento automático, per capita;COMTPINT;-0,050;0,241
+Imposto Municipal Sobre as Transmissões Onerosas de Imóveis (IMT), segundo o município de localização do imóvel, per capita;IMT;-0,018;0,196
+Valor dos contratos de compra e venda de prédios urbanos, segundo a localização do imóvel, per capita;TPRURB;0,008;0,177
+Imposto Municipal sobre Imóveis (IMI), segundo o município de localização do imóvel, per capita;IMI;-0,006;0,183
+Volume de negócios das empresas da divisão 56 da CAE-Rev.3 (Restauração), com atividade, segundo o município do estabelecimento, per capita;VVNEREST;-0,005;0,195
+;;;
