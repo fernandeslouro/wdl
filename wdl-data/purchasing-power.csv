@@ -1,0 +1,309 @@
+County;Purchasing Power
+Lisboa;100
+Porto;100
+Sintra;100
+Vila Nova de Gaia;99
+Cascais;99
+Matosinhos;99
+Oeiras;98
+Almada;98
+Braga;98
+Loures;97
+Amadora;97
+Coimbra;97
+Maia;96
+Guimarães;96
+Odivelas;96
+Seixal;95
+Gondomar;95
+Leiria;95
+Vila Franca de Xira;94
+Funchal;94
+Santa Maria da Feira;94
+Setúbal;93
+Aveiro;93
+Barcelos;93
+Vila Nova de Famalicão;92
+Faro;92
+Valongo;92
+Viseu;91
+Mafra;91
+Viana do Castelo;91
+Vila do Conde;90
+Barreiro;90
+Ponta Delgada;90
+Torres Vedras;89
+Loulé;89
+Palmela;89
+Paredes;88
+Évora;88
+Póvoa de Varzim;88
+Santo Tirso;87
+Figueira da Foz;87
+Portimão;87
+Santarém;86
+Moita;86
+Montijo;86
+Oliveira de Azeméis;86
+Penafiel;85
+Caldas da Rainha;85
+Castelo Branco;85
+Vila Real;84
+Alcobaça;84
+Felgueiras;84
+Ovar;83
+Albufeira;83
+Paços de Ferreira;83
+Sesimbra;82
+Águeda;82
+Covilhã;82
+Pombal;81
+Alenquer;81
+Amarante;81
+Marco de Canaveses;80
+Guarda;80
+Marinha Grande;80
+Ourém;79
+Beja;79
+Fafe;79
+Olhão;78
+Ílhavo;78
+Torres Novas;78
+Trofa;77
+Angra do Heroísmo;77
+Bragança;77
+Lousada;76
+Abrantes;76
+Santa Cruz;76
+Tomar;75
+Chaves;75
+Espinho;75
+Vila Verde;74
+Lagos;74
+Ponte de Lima;74
+São João da Madeira;73
+Benavente;73
+Cantanhede;73
+Esposende;72
+Azambuja;72
+Portalegre;72
+Santiago do Cacém;72
+Silves;71
+Peniche;71
+Ribeira Grande;71
+Tavira;70
+Alcochete;70
+Anadia;70
+Estarreja;69
+Cartaxo;69
+Entroncamento;69
+Fundão;68
+Albergaria-a-Velha;68
+Lagoa;68
+Lamego;67
+Lourinhã;67
+Odemira;67
+Tondela;66
+Almeirim;66
+Câmara de Lobos;66
+Vizela;65
+Oliveira do Bairro;65
+Porto de Mós;65
+Vale de Cambra;64
+Elvas;64
+Mirandela;64
+Rio Maior;63
+Montemor-o-Velho;63
+Sines;63
+Vila Real de Santo António;62
+Mealhada;62
+Salvaterra de Magos;62
+Seia;61
+Machico;61
+Vagos;61
+Vila da Praia da Vitória;60
+Arouca;60
+Mangualde;60
+Póvoa de Lanhoso;59
+Arcos de Valdevez;59
+Lousã;59
+Oliveira do Hospital;58
+Arruda dos Vinhos;58
+Condeixa-a-Nova;58
+Coruche;58
+Montemor-o-Novo;57
+Batalha;57
+Horta;57
+Peso da Régua;56
+Amares;56
+Monção;56
+Ponte de Sôr;55
+Caminha;55
+Grândola;55
+Soure;54
+Alcanena;54
+Estremoz;54
+Nazaré;53
+Baião;53
+Lagoa (R.A.A);53
+Valença;52
+Moura;52
+São Pedro do Sul;52
+Vendas Novas;51
+Celorico de Basto;51
+Macedo de Cavaleiros;51
+Sertã;50
+Cinfães;50
+Serpa;50
+Sobral de Monte Agraço;49
+Bombarral;49
+Cabeceiras de Basto;49
+Castelo de Paiva;48
+Alcácer do Sal;48
+Cadaval;48
+Nelas;47
+Ansião;47
+Castro Daire;47
+Reguengos de Monsaraz;46
+Penacova;46
+São Brás de Alportel;46
+Valpaços;45
+Mira;45
+Miranda do Corvo;45
+Óbidos;44
+Gouveia;44
+Ribeira Brava;44
+Sever do Vouga;43
+Oliveira de Frades;43
+Tábua;43
+Vieira do Minho;43
+Vila Pouca de Aguiar;42
+Arganil;42
+Campo Maior;42
+Santa Comba Dão;41
+Aljustrel;41
+Ponte da Barca;41
+Vila Nova de Cerveira;40
+Castro Verde;40
+Sátão;40
+Vila Franca do Campo;39
+Alijó;39
+Murtosa;39
+Sabugal;38
+Calheta (R.A.M.);38
+Carregal do Sal;38
+Chamusca;37
+Moimenta da Beira;37
+Mortágua;37
+Vila Viçosa;36
+Resende;36
+Trancoso;36
+Vouzela;35
+Ferreira do Alentejo;35
+Mogadouro;35
+Montalegre;34
+Alpiarça;34
+Idanha-a-Nova;34
+Paredes de Coura;33
+Almodôvar;33
+Ferreira do Zêzere;33
+Pinhel;32
+Madalena;32
+Proença-a-Nova;32
+Vila Nova da Barquinha;31
+Arraiolos;31
+Borba;31
+Melgaço;30
+Miranda do Douro;30
+Vila do Porto;30
+Vila Nova de Poiares;29
+Ponta do Sol;29
+Porto Santo;29
+Tarouca;29
+Torre de Moncorvo;28
+Redondo;28
+São João da Pesqueira;28
+Vinhais;27
+Belmonte;27
+Celorico da Beira;27
+Nisa;26
+Almeida;26
+Castro Marim;26
+Golegã;25
+Alvaiázere;25
+Mação;25
+Vila Nova de Foz Côa;24
+Mértola;24
+Penalva do Castelo;24
+Velas;23
+Mondim de Basto;23
+Terras de Bouro;23
+Viana do Alentejo;22
+Povoação;22
+Santana;22
+Vidigueira;21
+Portel;21
+Ribeira de Pena;21
+Santa Marta de Penaguião;20
+Figueira de Castelo Rodrigo;20
+Penela;20
+Vila Flor;19
+Armamar;19
+Figueiró dos Vinhos;19
+Sabrosa;18
+Carrazeda de Ansiães;18
+Mora;18
+Ourique;17
+Aljezur;17
+Murça;17
+Tabuaço;16
+Alandroal;16
+Constância;16
+Vila do Bispo;15
+Aguiar da Beira;15
+Lajes do Pico;15
+Monchique;15
+Oleiros;14
+Avis;14
+Cuba;14
+Sernancelhe;13
+Santa Cruz da Graciosa;13
+São Vicente;13
+Sousel;12
+Alfândega da Fé;12
+Boticas;12
+Nordeste;11
+Meda;11
+Penamacor;11
+Vila Nova de Paiva;10
+Fornos de Algodres;10
+Mesão Frio;10
+São Roque do Pico;9
+Pampilhosa da Serra;9
+Sardoal;9
+Vimioso;8
+Calheta (R.A.A.);8
+Gavião;8
+Góis;7
+Castelo de Vide;7
+Crato;7
+Fronteira;6
+Alter do Chão;6
+Pedrógão Grande;6
+Vila Velha de Ródão;5
+Freixo de Espada à Cinta;5
+Monforte;5
+Vila de Rei;4
+Arronches;4
+Manteigas;4
+Marvão;3
+Castanheira de Pêra;3
+Mourão;3
+Santa Cruz das Flores;2
+Alcoutim;2
+Alvito;2
+Penedono;1
+Barrancos;1
+Corvo;1
+Lajes das Flores;1
+Porto Moniz;1
